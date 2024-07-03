@@ -1,11 +1,4 @@
-ChatGPT
 
-I want calculator's made using html css js readme file made using
-
-3/3
-
-ChatGPT
-Certainly! Here's an example of a README file for a basic calculator made using HTML, CSS, and JavaScript.
 
 Basic Calculator
 A simple, functional calculator created using HTML, CSS, and JavaScript.
@@ -22,13 +15,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/calculator.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd calculator
-Open index.html in your favorite web browser.
+git clone https://github.com/khushichhabadia/calculator.git
 
 Usage
 Enter numbers using the buttons provided.
